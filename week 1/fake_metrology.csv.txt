@@ -1,0 +1,11 @@
+sample_id,cd_nm,thickness_nm,operator,pass_fail
+1,14.2,44.8,operator_A,pass
+2,13.8,45.1,operator_B,pass
+3,14.5,44.2,operator_A,pass
+4,15.1,46.3,operator_B,fail
+5,13.5,43.9,operator_A,pass
+6,14.0,45.0,operator_C,pass
+7,14.8,45.8,operator_B,pass
+8,13.2,43.1,operator_C,fail
+9,14.1,44.9,operator_A,pass
+10,14.6,45.5,operator_B,pass
